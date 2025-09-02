@@ -40,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/Rakchanaa/leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Rakchanaa/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rakchanaa/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakchanaa/leetcode/tree/master/0204-count-primes) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakchanaa/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakchanaa/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rakchanaa/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
